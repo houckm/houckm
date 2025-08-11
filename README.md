@@ -73,7 +73,7 @@ I'm a passionate Linux/Cybersecurity Engineer with expertise in building and mai
 
 ## 🏆 Certifications
 - 🎯 **RHCSA** - Red Hat
-- 🎯 **AWS Solutions Architect** - Amazon Web Services
+- 🎯 **AWS Solutions Architect Associate** - Amazon Web Services
 
 ## 📫 Connect With Me
 
