@@ -1,13 +1,94 @@
-<h1 align="center">Hi, I'm Hunter</h1>
-<h3 align="center">a passionate Linux/Cybersecurity Engineer</h3>
+# Hi, I'm Hunter 👋
+### Linux Systems Engineer | DevOps Specialist | Cybersecurity Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=houckm&label=Profile%20views&color=0e75b6&style=flat" alt="houckm" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=houckm&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
+I'm a passionate Linux/Cybersecurity Engineer with expertise in building and maintaining scalable infrastructure. I specialize in automation, containerization, and security-focused system administration. Currently focused on cloud-native technologies and infrastructure as code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔭 Current Focus
+- Building robust CI/CD pipelines
+- Implementing infrastructure as code with Terraform
+- Enhancing container orchestration with Kubernetes
+- Automating security compliance and monitoring
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=houckm&show_icons=true&locale=en&layout=compact" alt="houckm" /></p>
+## 📂 Featured Projects
+
+### 🔧 [Project Name 1]
+**Description**: Brief description of what this project does and its purpose  
+**Tech Stack**: `Linux` `Python` `Docker` `Ansible`  
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+
+### 🔧 [Project Name 2]
+**Description**: Brief description of your second major project  
+**Tech Stack**: `Kubernetes` `Terraform` `Prometheus`  
+**Key Features**:
+- Feature 1
+- Feature 2
+
+### 🔧 [Project Name 3]
+**Description**: Brief description of another significant project  
+**Tech Stack**: `Bash` `Python` `Jenkins`  
+**Key Features**:
+- Feature 1
+- Feature 2
+
+## 💻 Technical Skills
+
+### Operating Systems & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houckm&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houckm&layout=compact&theme=dark&hide_border=true)
+
+## 🏆 Certifications
+- 🎯 **[Certification Name]** - Organization (Year)
+- 🎯 **[Certification Name]** - Organization (Year)
+- 🎯 **RHCSA** - Red Hat (if applicable)
+- 🎯 **AWS Solutions Architect** (if applicable)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houckm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+## 🌱 Currently Learning
+- Advanced Kubernetes patterns
+- Cloud security best practices
+- Infrastructure as Code optimization
+- [Add your current learning topics]
+
+---
+⚡ **Fun fact**: [Add something interesting about yourself or your journey in tech]
