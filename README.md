@@ -12,30 +12,6 @@ I'm a passionate Linux/Cybersecurity Engineer with expertise in building and mai
 - Enhancing container orchestration with Kubernetes
 - Automating security compliance and monitoring
 
-## 📂 Featured Projects
-
-### 🔧 [Project Name 1]
-**Description**: Brief description of what this project does and its purpose  
-**Tech Stack**: `Linux` `Python` `Docker` `Ansible`  
-**Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
-
-### 🔧 [Project Name 2]
-**Description**: Brief description of your second major project  
-**Tech Stack**: `Kubernetes` `Terraform` `Prometheus`  
-**Key Features**:
-- Feature 1
-- Feature 2
-
-### 🔧 [Project Name 3]
-**Description**: Brief description of another significant project  
-**Tech Stack**: `Bash` `Python` `Jenkins`  
-**Key Features**:
-- Feature 1
-- Feature 2
-
 ## 💻 Technical Skills
 
 ### Operating Systems & Platforms
