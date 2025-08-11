@@ -1,5 +1,5 @@
 # Hi, I'm Hunter 👋
-### Linux Systems Engineer | DevOps Specialist | Cybersecurity Enthusiast
+### Linux Systems Engineer | DevOps Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=houckm&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -64,7 +64,6 @@ I'm a passionate Linux/Cybersecurity Engineer with expertise in building and mai
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -73,22 +72,18 @@ I'm a passionate Linux/Cybersecurity Engineer with expertise in building and mai
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houckm&layout=compact&theme=dark&hide_border=true)
 
 ## 🏆 Certifications
-- 🎯 **[Certification Name]** - Organization (Year)
-- 🎯 **[Certification Name]** - Organization (Year)
-- 🎯 **RHCSA** - Red Hat (if applicable)
-- 🎯 **AWS Solutions Architect** (if applicable)
+- 🎯 **RHCSA** - Red Hat
+- 🎯 **AWS Solutions Architect** - Amazon Web Services
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houckm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houckm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhouck@pm.me)
 
 ## 🌱 Currently Learning
 - Advanced Kubernetes patterns
 - Cloud security best practices
 - Infrastructure as Code optimization
-- [Add your current learning topics]
 
 ---
-⚡ **Fun fact**: [Add something interesting about yourself or your journey in tech]
